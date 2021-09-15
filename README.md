@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
-    <body> 
-    
-    
+     
 <!-- Main -->
 <div class="main">
 <h2>PERSONAL INFORMATION</h2><strong>
@@ -13,7 +10,6 @@
 <i class="fa fa-pen fa-xs edit"></i>
 <table>
 <tbody>
-<img src="myImage.jpg" ALIGN="middle" width="300px" height="300px"/>
 <tr>
 <td>Name</td>
 <td>:</td>
@@ -89,7 +85,7 @@
 <td>MS word, MS powerpoint, MS Excel, HTML</td>
 </tr>
 
-                    </tbody>
-                </table>
-            </div>
-        </div>
+                    
+             
+           
+        
